@@ -1,2 +1,2 @@
-Hello, this is my firest github practice.
+Hello, this is my first github practice.
  
